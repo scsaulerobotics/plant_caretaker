@@ -147,7 +147,7 @@ void loop() {
   delay(50);
 
   
-  int difX = ((valorLDR1 + valorLDR2)/2) - (valorLDR3);  //base; izquierda - derecha
+  int difX = ((valorLDR1) - ((valorLDR3 + valorLDR2)/2);  //base; izquierda - derecha
   int difY = ((valorLDR1 + valorLDR3)/2) - (valorLDR2);  //arriba - abajo
 
 
