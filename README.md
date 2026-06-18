@@ -39,8 +39,6 @@ Power Supply: 9V Battery.
 ## Installation and Setup
 - Hardware Assembly: Connect the components according to the wiring diagrams provided in the repository.
 
-- Calibration: Use the calibration script to determine the dry and wet thresholds of your capacitive sensor.
-
 - Software Upload: Open the main source code in the Arduino IDE and upload it to the board.
 
 - Deployment: Place the plant on the motorized base and insert the sensors into the soil.
