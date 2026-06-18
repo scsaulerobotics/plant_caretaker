@@ -1,4 +1,4 @@
-# plant_caretaker (In development)
+# plant_caretaker
 Arduino project used to monitor the state of a plant using different parameters, such as humidity or light
 
 This repository contains the design and source code for an Arduino-based robotics project dedicated to plant maintenance. The system automates irrigation and environmental positioning to optimize growth conditions.
